@@ -37,7 +37,7 @@ Nothing fancy — mostly Pandas for grouping/aggregating by season, and Matplotl
 ## A few things that came out of the analysis
 
 - **Kharif has the highest average yield (5.64 t/ha), Zaid the lowest (4.67 t/ha).** The gap isn't huge, but it's consistent.
-- **Profitability is where the seasons really diverge.** Kharif farms average a profit of ~₹1.79L, Rabi ~₹0.88L, and Zaid actually comes out *negative* on average (~-₹25K). More than 64% of Zaid farms are running at a loss, vs 42% in Kharif.
+- **Profitability is where the seasons really diverge.** Kharif farms average a profit of ~₹1.79L, Rabi ~₹0.88L, and Zaid actually comes out *negative* on average (₹25K). More than 64% of Zaid farms are running at a loss, vs 42% in Kharif.
 - **Yield correlates decently with profit (0.49) and water use (0.39)**, but barely with anything else — fertilizer, rainfall, soil pH etc. all show weak correlations. So there isn't one obvious lever that explains performance; it's a mix of a lot of small things.
 - **Irrigation method mix doesn't shift much by season** — Flood stays the most common (~32-33%) across all three, which was a bit surprising going in.
 - **Disease/pest risk is clearly highest in Kharif (54.5%)** compared to Rabi (40.5%) and Zaid (38.2%) — makes sense given the humidity that comes with the monsoon.
