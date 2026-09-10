@@ -45,27 +45,9 @@ Nothing fancy — mostly Pandas for grouping/aggregating by season, and Matplotl
 
 Correlation is used here only as a first screening step — it shows association, not causation, so none of the above should be read as "X causes Y."
 
-## Running it yourself
-
-```bash
-git clone https://github.com/chitranjan-7-8-6/Seasonal-Agriculture-Performance-Analysis.git
-cd Seasonal-Agriculture-Performance-Analysis
-pip install pandas numpy matplotlib seaborn scipy jupyter
-jupyter notebook Seasonal_Agriculture_Performance_Analysis.ipynb
-```
-
-Just make sure the CSV is in the same folder as the notebook before running it top to bottom.
-
 ## Tools used
 
 Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy — all inside a Jupyter Notebook.
-
-## Where this could go next
-
-- A proper ML model to predict yield/profit instead of just describing patterns
-- Pulling in live weather data instead of a static snapshot
-- Going down to district/village level instead of state level — state averages hide a lot
-- Digging into *why* so many farms are unprofitable, since that shows up in every season, not just Zaid
 
 ## Author
 
