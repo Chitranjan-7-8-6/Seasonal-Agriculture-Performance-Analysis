@@ -13,7 +13,7 @@ The idea behind this project is simple — agriculture in India runs on three se
 | `Seasonal_Agriculture_Performance_Analysis.ipynb` | The main analysis — Jupyter notebook, Python |
 | `seasonal_agriculture_performance_dataset.csv` | The raw dataset used for the analysis |
 | `Major_Project_Seasonal_Agriculture_Performance_Analysis.pdf` | Original project brief given by VOIS/AICTE |
-| `VOIS_Major_Project_PPT_Submission.pptx` | Slide deck summarizing the project for submission |
+| `Major Project_Seasonal Agriculture-02.pptx` | Slide deck summarizing the project for submission |
 
 ## Dataset
 
